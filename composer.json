@@ -1,0 +1,29 @@
+{
+    "name": "codicastudio/shipstation",
+    "description": "A noobs worthless garbage, just learning.",
+    "keywords": [
+        "worthless garabage by a noob."
+    ],
+    "homepage": "https://github.com/codicastudio/shipstation",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael J Brown",
+            "email": "mbrown@codicastudio.com",
+            "homepage": "https://codicastudio.com",
+            "role": "Developer"
+        }
+    ],
+
+    "autoload" : {
+        "psr-4": {
+            "LaravelShipStation\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3|^7.0.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
