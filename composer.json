@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/shipstation",
+    "name": "codica-studio/shipstation",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/shipstation",
+    "homepage": "https://github.com/codica-studio/shipstation",
     "license": "MIT",
     "authors": [
         {
